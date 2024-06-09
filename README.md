@@ -65,7 +65,7 @@ I am thrilled to share my latest project that leverages the power of the MERN st
 
 ## Installation
 
-- Clone the repository: `git clone <repository-url>`
+- Clone the repository: `git clone <https://github.com/pradyumn8/MERN-Stack-Portfolio-with-Admin-Panel.git>`
 - Navigate to the project directory: `cd MERN-Stack-Portfolio-with-Admin-Panel`
 - Install dependencies for the backend, portfolio frontend, and admin dashboard separately using `npm install` in each directory.
 
